@@ -9,6 +9,12 @@ namespace Lesson_1
         {
 
             Console.WriteLine("Hello world");
+            Console.WriteLine("Welcome to C# lesson");
+            Console.WriteLine("I'm .Net developer");
+            
+
+
+
 
         }
     }

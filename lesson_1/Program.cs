@@ -12,6 +12,9 @@ namespace Lesson_1
             Console.WriteLine("Welcome to C# lesson");
             Console.WriteLine("I'm .Net developer");
             
+            Console.WriteLine(23);
+            int x = 10;
+            Console.WriteLine($"Enter input your number : {x}");
 
 
 

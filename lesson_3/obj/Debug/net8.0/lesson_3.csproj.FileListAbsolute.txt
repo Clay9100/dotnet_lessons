@@ -1,0 +1,15 @@
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\bin\Debug\net8.0\lesson_3.exe
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\bin\Debug\net8.0\lesson_3.deps.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\bin\Debug\net8.0\lesson_3.runtimeconfig.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\bin\Debug\net8.0\lesson_3.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\bin\Debug\net8.0\lesson_3.pdb
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.AssemblyInfoInputs.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.AssemblyInfo.cs
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.csproj.CoreCompileInputs.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.sourcelink.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\refint\lesson_3.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.pdb
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\lesson_3.genruntimeconfig.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_3\obj\Debug\net8.0\ref\lesson_3.dll

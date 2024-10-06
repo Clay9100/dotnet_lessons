@@ -20,6 +20,14 @@ namespace PrintFormatting
 
             System.Console.WriteLine("Number k : " + k);
 
+            string str = $"Number str : {k}";
+            System.Console.WriteLine(str);
+
+            string name = "Simt";
+            int age = 33;
+            System.Console.WriteLine($"Your name is : {name} and age : {age} ");
+
+
 
         }
     }

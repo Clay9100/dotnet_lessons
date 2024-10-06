@@ -1,0 +1,15 @@
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\bin\Debug\net8.0\User_Input.exe
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\bin\Debug\net8.0\User_Input.deps.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\bin\Debug\net8.0\User_Input.runtimeconfig.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\bin\Debug\net8.0\User_Input.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\bin\Debug\net8.0\User_Input.pdb
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.AssemblyInfoInputs.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.AssemblyInfo.cs
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.csproj.CoreCompileInputs.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.sourcelink.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\refint\User_Input.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.pdb
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\User_Input.genruntimeconfig.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\User_Input\obj\Debug\net8.0\ref\User_Input.dll

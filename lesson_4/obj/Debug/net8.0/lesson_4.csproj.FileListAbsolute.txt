@@ -1,0 +1,15 @@
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.AssemblyInfoInputs.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.AssemblyInfo.cs
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.csproj.CoreCompileInputs.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.sourcelink.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\bin\Debug\net8.0\lesson_4.exe
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\bin\Debug\net8.0\lesson_4.deps.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\bin\Debug\net8.0\lesson_4.runtimeconfig.json
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\bin\Debug\net8.0\lesson_4.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\bin\Debug\net8.0\lesson_4.pdb
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\refint\lesson_4.dll
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.pdb
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\lesson_4.genruntimeconfig.cache
+D:\gitClone\dotnet_lessons\dotnet_lessons\lesson_4\obj\Debug\net8.0\ref\lesson_4.dll

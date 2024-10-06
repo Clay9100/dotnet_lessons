@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace Operators
+{
+    class Operator
+    {
+        static void Main(string[] args)
+        {
+            System.Console.WriteLine("The is lesson Operators info");
+
+        }
+    }
+}

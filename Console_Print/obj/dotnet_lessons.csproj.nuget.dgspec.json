@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj": {}
+    "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj": {}
   },
   "projects": {
-    "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj": {
+    "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj",
+        "projectUniqueName": "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj",
         "projectName": "dotnet_lessons",
-        "projectPath": "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj",
+        "projectPath": "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\dotnet_lessons\\Console_Print\\dotnet_lessons.csproj",
         "packagesPath": "C:\\Users\\Clay\\.nuget\\packages\\",
-        "outputPath": "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\Console_Print\\obj\\",
+        "outputPath": "D:\\gitClone\\dotnet_lessons\\dotnet_lessons\\dotnet_lessons\\Console_Print\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
